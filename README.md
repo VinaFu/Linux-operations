@@ -97,6 +97,4 @@
 
 24. sudo apt-get update -just update 
 
-
-
-22. 
+25. sudo shutdown -h now/10 minutes  - shutdown 
