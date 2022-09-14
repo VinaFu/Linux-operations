@@ -1,10 +1,23 @@
 # Linux-operations
 
+add:
+
+redicrect - pipeline
+
+grep: search
+"Grep is an acronym that stands for Global Regular Expression Print.
+Grep is a Linux / Unix command-line tool used to search for a string of characters in a specified file."
+
+grep phoenix sample2：（“phoenix” in the file sample2）
+grep phoenix sample sample2 sample3：（“phoenix” in the file smaple, sample2, sample3）
+
+
+
 1. 现在位置：pwd 
 
 2. 清单：ls
       
-      ls -a: show every file, even the hidden files
+      ls -a: show every file, even the hidden files, also readable or not
       ls -l: permission of holder file and group, everyone else
       [drwxr] - delete, read, write, excute 
 
